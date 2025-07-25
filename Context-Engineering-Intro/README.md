@@ -8,7 +8,7 @@ A comprehensive template for getting started with Context Engineering - the disc
 
 ```bash
 # 1. Clone this template
-git clone https://github.com/coleam00/Context-Engineering-Intro.git
+[git clone https://github.com/CBS9564/GCET.git
 cd Context-Engineering-Intro
 
 # 2. Set up your project rules (optional - template provided)
